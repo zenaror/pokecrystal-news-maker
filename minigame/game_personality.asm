@@ -351,10 +351,10 @@ ENDM
 	lang I, next "sempre “caro”."
 
 	; Spanish
-	lang S, db   "siempre añado"
-    lang S, next "a mi #MON, “mi"
-    lang S, next "querido” a su"
-    lang S, next "nombre”."
+	lang S, db   "Cuando llamo a mi"
+	lang S, next "#MON por su"
+	lang S, next "nombre, siempre"
+	lang S, next "añado “mi querido”."
 	
 	db "@"
 .page3
