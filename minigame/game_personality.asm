@@ -357,7 +357,6 @@ ENDM
     lang S, next "nombre”."
 	
 	db "@"
- JA____NEIN__ZUR___
 .page3
 	; Japanese
 	lang J, db   "ポケモンに　おぼえさせる　わざは"
