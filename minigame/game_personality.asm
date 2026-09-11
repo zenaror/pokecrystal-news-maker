@@ -351,7 +351,7 @@ ENDM
 	lang I, next "sempre “caro”."
 
 	; Spanish
-	lang S, next "siempre añado"
+	lang S, db   "siempre añado"
     lang S, next "a mi #MON, “mi"
     lang S, next "querido” a su"
     lang S, next "nombre”."
